@@ -7,13 +7,13 @@ This repository contains a Notebook detailing an exploratory data analysis (EDA)
 * Data Visualization: Utilizing seaborn and matplotlib for visual analysis of the salary distribution, employment types, and job titles.
 * Correlation Analysis: Investigating the relationship between different variables like work year, salary, experience level, and remote ratio.
 * Statistical Insights: Gaining insights into trends in the data science job market over recent years.
-* 
+
 # Technologies Used
 * Python
 * Pandas for data manipulation
 * Matplotlib & Seaborn for visualization
 * Jupyter Notebook
-* 
+  
 # How to Use
 1. Clone this repository.
 2. Ensure you have Python installed along with Pandas, Matplotlib, and Seaborn.
