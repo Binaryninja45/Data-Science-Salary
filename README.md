@@ -23,11 +23,11 @@ This repository contains a Notebook detailing an exploratory data analysis (EDA)
 The dataset used (ds_salaries.csv) contains multiple attributes including work year, experience level, employment type, job title, salary, and more. The dataset has 3,755 rows and 11 columns, with a mix of integer and object data types.
 
 # Observations & Conclusions
-The dataset provided valuable insights into the data science job market from 2020 to 2023.
-A significant increase in data science roles was observed after 2020.
-There's a positive relationship between work years and salary in USD, albeit not a strong one.
-The majority of the data science roles are full-time, with the United States being the predominant location of both employees and companies.
-Senior-level employees (SE) generally receive the highest salaries.
+* The dataset provided valuable insights into the data science job market from 2020 to 2023.
+* A significant increase in data science roles was observed after 2020.
+* There's a positive relationship between work years and salary in USD, albeit not a strong one.
+* The majority of the data science roles are full-time, with the United States being the predominant location of both employees and companies.
+* Senior-level employees (SE) generally receive the highest salaries.
 
 # Contributing
 Feel free to fork this repository, submit pull requests, or send suggestions to improve the analysis or add new features.
