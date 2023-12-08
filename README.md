@@ -1,6 +1,6 @@
 # Data-Science-Salary
 # Project Overview
-This repository contains a Jupyter Notebook detailing an exploratory data analysis (EDA) of data science salaries. The analysis focuses on various factors influencing data science roles' salaries, including experience level, job title, employee residence, and more, using a dataset of 3,755 entries.
+This repository contains a Notebook detailing an exploratory data analysis (EDA) of data science salaries. The analysis focuses on various factors influencing data science roles' salaries, including experience level, job title, employee residence, and more, using a dataset of 3,755 entries.
 
 # Key Features
 * Data Exploration: Understanding the structure and distribution of the dataset, including missing values, data types, and summary statistics.
